@@ -1,15 +1,16 @@
-VueJS & Bootstrap4 (frontend)
+# devstack used
+* VueJS & Bootstrap4 (frontend)
 
-Python & Flask (backend / webserver)
+* Python & Flask (backend / webserver)
 
-MongoDB (NoSQL database)
+* MongoDB (NoSQL database)
 
-Algorithmia (machine learning model hosting)
+* Algorithmia (machine learning model hosting)
 
-python dependancies (pip install)
-algorithmia
-flask >= 1.1
-pillow
-python-resize-image
-pyjwt
-pymongo
+# python dependancies (pip install)
+* algorithmia
+* flask >= 1.1
+* pillow
+* python-resize-image
+* pyjwt
+* pymongo
