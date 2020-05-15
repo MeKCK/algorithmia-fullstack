@@ -1,4 +1,4 @@
-# devstack used
+## devstack used
 * VueJS & Bootstrap4 (frontend)
 
 * Python & Flask (backend / webserver)
@@ -7,7 +7,7 @@
 
 * Algorithmia (machine learning model hosting)
 
-# python dependancies (pip install)
+## python dependancies (pip install)
 * algorithmia
 * flask >= 1.1
 * pillow
